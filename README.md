@@ -49,5 +49,5 @@ A fully functional contact form built using **Laravel 10** and **Livewire**, fea
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/surajpaul2412/cybersentrytest.git
+cd cybersentrytest
